@@ -30,7 +30,7 @@ The system analyzes user-input text (such as messages, links, or offers) and cla
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack 
 
 * **Frontend:** HTML, CSS
 * **Backend:** Python (Flask)
